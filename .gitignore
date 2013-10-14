@@ -17,3 +17,4 @@ xcode/PebCiti-Pebble.xcodeproj/xcuserdata/
 
 # Other generated files
 serial_dump.txt
+.DS_STORE
