@@ -46,7 +46,7 @@ static void peb_citi_init(AppContextRef context)
     Window *window = &s_data.window;
     window_init(window, "PebCiti");
 
-    text_layer_init(&s_data.focus_layer, GRect(5, 10, 134, 25));
+    text_layer_init(&s_data.focus_layer, GRect(3, 10, 138, 25));
     text_layer_set_font(&s_data.station_layer, fonts_get_system_font(FONT_KEY_GOTHIC_18));
     layer_add_child(&window->layer, &s_data.focus_layer.layer);
 
