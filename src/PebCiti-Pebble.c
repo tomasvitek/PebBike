@@ -47,10 +47,11 @@ static void peb_citi_init(AppContextRef context)
     window_init(window, "PebCiti");
 
     text_layer_init(&s_data.focus_layer, GRect(5, 10, 134, 25));
-    text_layer_set_text_alignment(&s_data.focus_layer, GTextAlignmentCenter);
+    text_layer_set_font(&s_data.station_layer, fonts_get_system_font(FONT_KEY_GOTHIC_18));
     layer_add_child(&window->layer, &s_data.focus_layer.layer);
 
     text_layer_init(&s_data.station_layer, GRect(5, 30, 134, 65));
+    text_layer_set_font(&s_data.station_layer, fonts_get_system_font(FONT_KEY_GOTHIC_28_BOLD));
     text_layer_set_text_alignment(&s_data.station_layer, GTextAlignmentCenter);
     layer_add_child(&window->layer, &s_data.station_layer.layer);
 
