@@ -1,6 +1,5 @@
 # waf build tool generated files
 .waf*
-build
 .lock-waf*
 
 # Xcode user files
