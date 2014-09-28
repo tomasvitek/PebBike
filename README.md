@@ -14,6 +14,10 @@ While PebBike uses almost the same watch app as PebCiti, it replaces [the iOS co
 
 PebBike works with **CitiBike** in NYC and with **Barclays Cycle Hire** in London. If you want to add more cities, [add an issue](https://github.com/tomasvitek/PebBike/issues) or submit a pull request.
 
+## Download
+
+You can download the latest build of PebBike from [/build/PebBike.pbw](https://raw.github.com/tomasvitek/PebBike/master/build/PebBike.pbw).
+
 ## Screenshots
 
 <img src="https://raw.github.com/tomasvitek/PebBike/master/screenshots/iOS.png" style="width:403px;height:706px">
