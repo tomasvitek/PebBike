@@ -16,6 +16,5 @@ PebBike works with **CitiBike** in NYC and with **Barclays Cycle Hire** in Londo
 
 ## Screenshots
 
-![iOS Screenshot](https://raw.github.com/tomasvitek/PebBike/master/screenshots/iOS.png =403x706)
-![Pebble Screenshot](https://raw.github.com/tomasvitek/PebBike/master/screenshots/Pebble.png =181x290)
-
+<img src="https://raw.github.com/tomasvitek/PebBike/master/screenshots/iOS.png" style="width:403px;height:706px">
+<img src="https://raw.githubusercontent.com/tomasvitek/PebBike/master/screenshots/Pebble.png" style="width:181px;height:290px">
